@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\lab01-Numbers\\lab01-Numbers\\lab01-Numbers.csproj": {}
+    "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\Lab01-numbers\\lab01-Numbers\\lab01-Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\lab01-Numbers\\lab01-Numbers\\lab01-Numbers.csproj": {
+    "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\Lab01-numbers\\lab01-Numbers\\lab01-Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\lab01-Numbers\\lab01-Numbers\\lab01-Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\Lab01-numbers\\lab01-Numbers\\lab01-Numbers.csproj",
         "projectName": "lab01-Numbers",
-        "projectPath": "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\lab01-Numbers\\lab01-Numbers\\lab01-Numbers.csproj",
+        "projectPath": "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\Lab01-numbers\\lab01-Numbers\\lab01-Numbers.csproj",
         "packagesPath": "C:\\Users\\Stand By\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\lab01-Numbers\\lab01-Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Stand By\\source\\repos\\alaaabusalem\\Numbers-Game\\Lab01-numbers\\lab01-Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stand By\\AppData\\Roaming\\NuGet\\NuGet.Config",

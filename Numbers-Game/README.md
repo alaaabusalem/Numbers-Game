@@ -1,7 +1,5 @@
 # Numbers-Game
 
-## ATM
-
 
 welcome to My ASP.NET console application which is a math game that takes user input, manipulates data, and utilizes error handling, by following some instruction
 
