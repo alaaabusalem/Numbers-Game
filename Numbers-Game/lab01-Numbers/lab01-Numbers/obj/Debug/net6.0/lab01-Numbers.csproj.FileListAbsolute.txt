@@ -1,0 +1,15 @@
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\bin\Debug\net6.0\lab01-Numbers.exe
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\bin\Debug\net6.0\lab01-Numbers.deps.json
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\bin\Debug\net6.0\lab01-Numbers.runtimeconfig.json
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\bin\Debug\net6.0\lab01-Numbers.dll
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\bin\Debug\net6.0\lab01-Numbers.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.csproj.AssemblyReference.cache
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.AssemblyInfoInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.AssemblyInfo.cs
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.dll
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\refint\lab01-Numbers.dll
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\lab01-Numbers.genruntimeconfig.cache
+C:\Users\Stand By\source\repos\alaaabusalem\Numbers-Game\lab01-Numbers\lab01-Numbers\obj\Debug\net6.0\ref\lab01-Numbers.dll

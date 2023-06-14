@@ -27,10 +27,10 @@
 				int num = Convert.ToInt32(Console.ReadLine());
 				int[] array = new int[num];
 				array = Populate(array);
-
-				int sum = GetSum(array);
-
-
+				
+					int sum = GetSum(array);
+				
+				
 
 				Console.WriteLine($"Your array size is {array.Length}");
 				Console.WriteLine($"the numbers in the array are :");
@@ -47,6 +47,10 @@
 			catch (OverflowException ex)
 			{
 				Console.WriteLine(ex.ToString());
+			}
+			catch (LessThan20Exception ex)
+			{
+				Console.WriteLine(ex.Message);
 			}
 		}
 
@@ -115,7 +119,10 @@
 			{
 				sum += item;
 			}
-			return sum;
+			if (sum < 20){
+				throw new Exception("sum is less than 20");
+			}
+			else { return sum; }
 		}
 	}
 }
