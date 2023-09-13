@@ -1,0 +1,15 @@
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\bin\Debug\net7.0\Comparing.exe
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\bin\Debug\net7.0\Comparing.deps.json
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\bin\Debug\net7.0\Comparing.runtimeconfig.json
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\bin\Debug\net7.0\Comparing.dll
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\bin\Debug\net7.0\Comparing.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.csproj.AssemblyReference.cache
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.AssemblyInfoInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.AssemblyInfo.cs
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.csproj.CoreCompileInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.dll
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\refint\Comparing.dll
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\Comparing.genruntimeconfig.cache
+C:\Users\Stand By\source\repos\alaaabusalem\CC28\Comparing\Comparing\obj\Debug\net7.0\ref\Comparing.dll
